@@ -799,7 +799,6 @@ PRODUCT_PACKAGES += \
     WfdService \
     ims \
     qcrilmsgtunnel \
-    WfdCommon \
     tcmclient \
     com.qti.dpmframework \
     dpmapi \
